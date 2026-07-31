@@ -19,7 +19,7 @@ public class Course {
 	}
 	// derse öğretmen atama metodu
 	void addTeacher(Teacher t) {
-		this.courseTeacher=courseTeacher;
+		this.courseTeacher = t;
 		
 	}
 	// öğretmenı ekrana yazdırma metodu
