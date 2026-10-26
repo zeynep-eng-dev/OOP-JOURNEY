@@ -1,4 +1,6 @@
 # 🚀 OOP-JOURNEY (Nesne Yönelimli Programlama Yolculuğum)
+<img width="1024" height="576" alt="image" src="https://github.com/user-attachments/assets/c8303c1a-8a4c-462d-8a36-46476cbba26e" />
+
 
 > *"Gelecekte yazılacak devasa sistemlerin ve kusursuz mimarilerin atılan her satır kodla kurulan sağlam temelleri..."* 
 
